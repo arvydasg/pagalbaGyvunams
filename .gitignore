@@ -1,5 +1,4 @@
 env/
 *.pyc
 *.xlsx
-*.sqlite3
 __pycache__/
