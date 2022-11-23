@@ -1,5 +1,9 @@
 # pagalbaGyvunams
 
+How it looks at the moment:
+
+![](https://github.com/arvydasg/pagalbaGyvunams/blob/20221123_before_client_inspects/20221123_before_client_inspect.gif)
+
 ## How to launch this app
 
 ### Installing system dependencies
